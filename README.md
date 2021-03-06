@@ -43,6 +43,7 @@ updating our coding standards:
 
 ## The Standards
 
+* [Common (applies to most languages)](./common)
 * [Standards …for standards](./standards)
 
 ## License
