@@ -26,5 +26,9 @@ longer. However, please keep lines of code at 100 characters or less.
 
 ```yaml
 eslint:
-  max-len: { code: 100 }
+  rules:
+    max-len: { code: 100 }
+
+prettier:
+  printWidth: 100
 ```

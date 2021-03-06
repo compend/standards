@@ -19,10 +19,12 @@ Keep prose (Markdown, comments, etc) under 80 characters per line.
 
 ```yaml
 eslint:
-  max-len: { comments: 80 }
+  rules:
+    max-len: { comments: 80 }
 
 markdownlint:
-  MD013: { line_length: 80 }
+  rules:
+    MD013: { line_length: 80 }
 
 rustfmt:
   wrap_comments: true

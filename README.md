@@ -44,6 +44,9 @@ updating our coding standards:
 ## Table of Contents
 
 * [Common](./common)
+* [Markdown](./markdown)
+* [Rust](./rust)
+* [TypeScript](./typescript)
 * [Standards](./standards)
 
 ## License
