@@ -41,10 +41,10 @@ updating our coding standards:
    and/or chosen languages – as well as forgotten by ourselves promptly after
    writing it. Thus, it should be easy to jump back into._
 
-## The Standards
+## Table of Contents
 
-* [Common (applies to most languages)](./common)
-* [Standards …for standards](./standards)
+* [Common](./common)
+* [Standards](./standards)
 
 ## License
 
